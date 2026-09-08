@@ -71,7 +71,7 @@
     "location": "IAA Halifax NS-SALVAGE",
     "location_name": "IAA Halifax NS",
     "branding": "SALVAGE",
-    "high_pre_bid": "12,900.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric Halifax",
     "fuel_type": "",
@@ -81,7 +81,7 @@
     "damage_estimate": "47,789.00",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2025 KIA EV9 WIND VIN #: KNDAFFS51S6****** Stock #: 12639005 Front, Right Front Damage Estimate: $47,789.00 93110 Km Transmission: Auto Stationary Engine: Electric Halifax Lane: 1 Run: 11 Location: IAA Halifax NS-SALVAGE Tue, Sep 08, 08:30 AM EDT High Pre-Bid: $12,900.00 Prebid available"
+    "raw_text": "2025 KIA EV9 WIND VIN #: KNDAFFS51S6****** Stock #: 12639005 Front, Right Front Damage Estimate: $47,789.00 93110 Km Transmission: Auto Stationary Engine: Electric Halifax Lane: 1 Run: 11 Location: IAA Halifax NS-SALVAGE Tue, Sep 08, 08:30 AM EDT Status: SOLD"
   },
   {
     "search_term": "ev6",
@@ -99,7 +99,7 @@
     "location": "IAA Toronto ON-SALVAGE",
     "location_name": "IAA Toronto ON",
     "branding": "SALVAGE",
-    "high_pre_bid": "12,600.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "U U UX Toronto (Oshawa)",
     "fuel_type": "",
@@ -109,7 +109,7 @@
     "damage_estimate": "37,016.74",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2024 KIA EV6 VIN #: KNDC4DLC2R5****** Stock #: 12679635 Front, Left Side Damage Estimate: $37,016.74 59568 Km Transmission: Auto RunAndDrive Engine: U U UX Toronto (Oshawa) Lane: 3 Run: 82 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $12,600.00 Prebid available"
+    "raw_text": "2024 KIA EV6 VIN #: KNDC4DLC2R5****** Stock #: 12679635 Front, Left Side Damage Estimate: $37,016.74 59568 Km Transmission: Auto RunAndDrive Engine: U U UX Toronto (Oshawa) Lane: 3 Run: 82 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT Status: SOLD"
   },
   {
     "search_term": "ev",
@@ -127,7 +127,7 @@
     "location": "IAA Toronto ON-SALVAGE",
     "location_name": "IAA Toronto ON",
     "branding": "SALVAGE",
-    "high_pre_bid": "10,300.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric Toronto (Oshawa)",
     "fuel_type": "",
@@ -137,7 +137,7 @@
     "damage_estimate": "52,352.85",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2026 CHEVROLET EQUINOX EV RS VIN #: 3GN7DSRR7TS****** Stock #: 12690210 Front Damage Estimate: $52,352.85 4674 Km Transmission: Auto RunAndDrive Engine: Electric Toronto (Oshawa) Lane: 3 Run: 93 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $10,300.00 Prebid available"
+    "raw_text": "2026 CHEVROLET EQUINOX EV RS VIN #: 3GN7DSRR7TS****** Stock #: 12690210 Front Damage Estimate: $52,352.85 4674 Km Transmission: Auto RunAndDrive Engine: Electric Toronto (Oshawa) Lane: 3 Run: 93 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT Status: IFBID"
   },
   {
     "search_term": "ev",
@@ -155,17 +155,17 @@
     "location": "IAA Halifax NS-NON-REPAIRABLE",
     "location_name": "IAA Halifax NS-NON",
     "branding": "REPAIRABLE",
-    "high_pre_bid": "10,400.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric Halifax",
     "fuel_type": "",
     "cylinders": "",
-    "functional_status": "Run and Drive",
+    "functional_status": "Starts",
     "odometer_km": "24432",
     "damage_estimate": "36,056.62",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2025 CHEVROLET SILVERADO EV WORK TRUCK MAX RANGE 4WD VIN #: 1GC10WEL9SU****** Stock #: 12690388 Rear, Left Rear Damage Estimate: $36,056.62 24432 Km Transmission: Auto RunAndDrive Engine: Electric Halifax Lane: 1 Run: 12 Location: IAA Halifax NS-NON-REPAIRABLE Tue, Sep 15, 08:30 AM EDT High Pre-Bid: $10,400.00 Prebid available"
+    "raw_text": "2025 CHEVROLET SILVERADO EV WORK TRUCK MAX RANGE 4WD VIN #: 1GC10WEL9SU****** Stock #: 12690388 Structural, Rear Damage Estimate: $36,056.62 24432 Km Transmission: Auto Starts Engine: Electric Halifax Lane: 1 Run: 12 Location: IAA Halifax NS-NON-REPAIRABLE Tue, Sep 15, 08:30 AM EDT Prebid available"
   },
   {
     "search_term": "ev",
@@ -193,7 +193,63 @@
     "damage_estimate": "65,943.08",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2025 CHEVROLET EQUINOX EV RS VIN #: 3GN7DSRR2SS****** Stock #: 12674865 Front, Front Damage Estimate: $65,943.08 5000 Km Transmission: Auto Stationary Engine: Electric St. John's Lane: 3 Run: 19 Location: IAA St. Johns NFLD NL-SALVAGE Tue, Sep 08, 08:30 AM EDT Prebid available"
+    "raw_text": "2025 CHEVROLET EQUINOX EV RS VIN #: 3GN7DSRR2SS****** Stock #: 12674865 Front, Front Damage Estimate: $65,943.08 5000 Km Transmission: Auto Stationary Engine: Electric St. John's Lane: 3 Run: 19 Location: IAA St. Johns NFLD NL-SALVAGE Tue, Sep 08, 08:30 AM EDT Status: IFBID"
+  },
+  {
+    "search_term": "ev",
+    "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/3086292",
+    "image_page": "",
+    "title": "2025 CHEVROLET EQUINOX EV LT",
+    "vin": "3GN7DLRR3SS******",
+    "stock_number": "12682127",
+    "sale_datetime": "Fri, Sep 11, 09:00 AM EDT",
+    "closing_date": "",
+    "city": "Quebec City",
+    "lane": "2",
+    "run": "21",
+    "location": "IAA Quebec City QC-V.G.A",
+    "location_name": "IAA Quebec City QC",
+    "branding": "V.G.A",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "Electric Quebec City",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Stationary",
+    "odometer_km": "53865",
+    "damage_estimate": "16,064.60",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2025 CHEVROLET EQUINOX EV LT VIN #: 3GN7DLRR3SS****** Stock #: 12682127 Under Carriage, Right Front Damage Estimate: $16,064.60 53865 Km Transmission: Auto Stationary Engine: Electric Quebec City Lane: 2 Run: 21 Location: IAA Quebec City QC-V.G.A Fri, Sep 11, 09:00 AM EDT Prebid available"
+  },
+  {
+    "search_term": "ev",
+    "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/3051743",
+    "image_page": "",
+    "title": "2024 KIA NIRO EV WIND/WIND+",
+    "vin": "KNDCR3L12R5******",
+    "stock_number": "12650158",
+    "sale_datetime": "Fri, Sep 11, 09:00 AM EDT",
+    "closing_date": "",
+    "city": "Montreal West",
+    "lane": "3",
+    "run": "44",
+    "location": "IAA Montreal West QC-V.G.A",
+    "location_name": "IAA Montreal West QC",
+    "branding": "V.G.A",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "Electric Montreal West",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Starts",
+    "odometer_km": "37692",
+    "damage_estimate": "42,541.06",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2024 KIA NIRO EV WIND/WIND+ VIN #: KNDCR3L12R5****** Stock #: 12650158 Front, Left Side Damage Estimate: $42,541.06 37692 Km Transmission: Auto Starts Engine: Electric Montreal West Lane: 3 Run: 44 Location: IAA Montreal West QC-V.G.A Fri, Sep 11, 09:00 AM EDT Prebid available"
   },
   {
     "search_term": "ev",
@@ -239,7 +295,7 @@
     "location": "IAA St. Johns NFLD NL-NOT-BRANDED",
     "location_name": "IAA St. Johns NFLD NL-NOT",
     "branding": "BRANDED",
-    "high_pre_bid": "3,300.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric St. John's",
     "fuel_type": "",
@@ -249,7 +305,7 @@
     "damage_estimate": "23,886.00",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2022 CHEVROLET BOLT EV 1LT VIN #: 1G1FW6S02N4****** Stock #: 12539272 Front, Left Front Damage Estimate: $23,886.00 78979 Km Transmission: Auto Stationary Engine: Electric St. John's Lane: 3 Run: 22 Location: IAA St. Johns NFLD NL-NOT-BRANDED Tue, Sep 08, 08:30 AM EDT High Pre-Bid: $3,300.00 Prebid available"
+    "raw_text": "2022 CHEVROLET BOLT EV 1LT VIN #: 1G1FW6S02N4****** Stock #: 12539272 Front, Left Front Damage Estimate: $23,886.00 78979 Km Transmission: Auto Stationary Engine: Electric St. John's Lane: 3 Run: 22 Location: IAA St. Johns NFLD NL-NOT-BRANDED Tue, Sep 08, 08:30 AM EDT Status: SOLD"
   },
   {
     "search_term": "ev",
@@ -267,7 +323,7 @@
     "location": "IAA Vancouver BC-SALVAGE",
     "location_name": "IAA Vancouver BC",
     "branding": "SALVAGE",
-    "high_pre_bid": "1,150.00",
+    "high_pre_bid": "3,100.00",
     "buy_now": "",
     "engine": "Electric Vancouver",
     "fuel_type": "",
@@ -277,7 +333,7 @@
     "damage_estimate": "2,946.00",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2019 CHEVROLET BOLT EV PREMIER VIN #: 1G1FZ6S00K4****** Stock #: 12687117 Front, Right Side Damage Estimate: $2,946.00 88513 Km Transmission: Auto RunAndDrive Engine: Electric Vancouver Lane: 1 Run: 6 Location: IAA Vancouver BC-SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $1,150.00 Prebid available"
+    "raw_text": "2019 CHEVROLET BOLT EV PREMIER VIN #: 1G1FZ6S00K4****** Stock #: 12687117 Front, Right Side Damage Estimate: $2,946.00 88513 Km Transmission: Auto RunAndDrive Engine: Electric Vancouver Lane: 1 Run: 6 Location: IAA Vancouver BC-SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $3,100.00 Prebid available"
   },
   {
     "search_term": "ev",
@@ -295,7 +351,7 @@
     "location": "Lower Mainland SALVAGE",
     "location_name": "Lower Mainland",
     "branding": "SALVAGE",
-    "high_pre_bid": "3,300.00",
+    "high_pre_bid": "3,800.00",
     "buy_now": "",
     "engine": "U NX Lower Mainland",
     "fuel_type": "",
@@ -305,7 +361,7 @@
     "damage_estimate": "",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2019 CHEVROLET BOLT EV LT VIN #: 1G1FY6S03K4****** Stock #: 40075752 Left Front, Possible Mech. 81094 Km Transmission: ECVT Stationary Engine: U NX Lower Mainland Lane: 1 Run: 50 Location: Lower Mainland SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $3,300.00 Prebid available"
+    "raw_text": "2019 CHEVROLET BOLT EV LT VIN #: 1G1FY6S03K4****** Stock #: 40075752 Left Front, Possible Mech. 81094 Km Transmission: ECVT Stationary Engine: U NX Lower Mainland Lane: 1 Run: 50 Location: Lower Mainland SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $3,800.00 Prebid available"
   },
   {
     "search_term": "ev",
@@ -323,7 +379,7 @@
     "location": "IAA Montreal West QC-V.G.A",
     "location_name": "IAA Montreal West QC",
     "branding": "V.G.A",
-    "high_pre_bid": "",
+    "high_pre_bid": "2,100.00",
     "buy_now": "",
     "engine": "Electric Montreal West",
     "fuel_type": "",
@@ -333,7 +389,7 @@
     "damage_estimate": "24,314.17",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2019 HYUNDAI KONA EV ULTIMATE VIN #: KM8K33AG8KU****** Stock #: 12652299 Front, Front Window Damage Estimate: $24,314.17 209182 Km Transmission: Auto RunAndDrive Engine: Electric Montreal West Lane: 3 Run: 71 Location: IAA Montreal West QC-V.G.A Thu, Sep 10, 09:00 AM EDT Prebid available"
+    "raw_text": "2019 HYUNDAI KONA EV ULTIMATE VIN #: KM8K33AG8KU****** Stock #: 12652299 Front, Front Window Damage Estimate: $24,314.17 209182 Km Transmission: Auto RunAndDrive Engine: Electric Montreal West Lane: 3 Run: 71 Location: IAA Montreal West QC-V.G.A Thu, Sep 10, 09:00 AM EDT High Pre-Bid: $2,100.00 Prebid available"
   },
   {
     "search_term": "ev",
@@ -361,7 +417,7 @@
     "damage_estimate": "21,982.21",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2018 HYUNDAI IONIQ EV SE VIN #: KMHC75LH5JU****** Stock #: 12685953 Front, Right Front Damage Estimate: $21,982.21 91625 Km Transmission: Auto Stationary Engine: Electric Montreal West Lane: 3 Run: 30 Location: IAA Montreal West QC-V.G.A Tue, Sep 08, 09:00 AM EDT Prebid available"
+    "raw_text": "2018 HYUNDAI IONIQ EV SE VIN #: KMHC75LH5JU****** Stock #: 12685953 Front, Right Front Damage Estimate: $21,982.21 91625 Km Transmission: Auto Stationary Engine: Electric Montreal West Lane: 3 Run: 30 Location: IAA Montreal West QC-V.G.A Tue, Sep 08, 09:00 AM EDT Status: IFBID"
   },
   {
     "search_term": "ev",
@@ -394,34 +450,6 @@
   {
     "search_term": "ioniq",
     "result_page": 1,
-    "detail_page": "https://ca.iaai.com/vehicle-details/3076338",
-    "image_page": "",
-    "title": "2025 HYUNDAI IONIQ 6 SEL",
-    "vin": "KMHM34AC4SA******",
-    "stock_number": "12673039",
-    "sale_datetime": "Wed, Sep 09, 01:00 PM EDT",
-    "closing_date": "",
-    "city": "Vancouver",
-    "lane": "1",
-    "run": "51",
-    "location": "IAA Vancouver BC-SALVAGE",
-    "location_name": "IAA Vancouver BC",
-    "branding": "SALVAGE",
-    "high_pre_bid": "",
-    "buy_now": "",
-    "engine": "Electric Vancouver",
-    "fuel_type": "",
-    "cylinders": "",
-    "functional_status": "Stationary",
-    "odometer_km": "7397",
-    "damage_estimate": "37,909.00",
-    "parse_issue": false,
-    "parse_issue_reason": "",
-    "raw_text": "2025 HYUNDAI IONIQ 6 SEL VIN #: KMHM34AC4SA****** Stock #: 12673039 Front, Rear Damage Estimate: $37,909.00 7397 Km Transmission: Auto Stationary Engine: Electric Vancouver Lane: 1 Run: 51 Location: IAA Vancouver BC-SALVAGE Wed, Sep 09, 01:00 PM EDT Prebid available"
-  },
-  {
-    "search_term": "ioniq",
-    "result_page": 1,
     "detail_page": "https://ca.iaai.com/vehicle-details/10261304",
     "image_page": "",
     "title": "2025 HYUNDAI IONIQ 5 N",
@@ -446,6 +474,34 @@
     "parse_issue": false,
     "parse_issue_reason": "",
     "raw_text": "2025 HYUNDAI IONIQ 5 N VIN #: KM8KNDA82SU****** Stock #: 20250320 Bio Hazard, Rear Damage Estimate: $53,175.50 26697 Km Transmission: Auto Stationary Engine: Electric Winnipeg Lane: 2 Run: 258 Location: Winnipeg MB-IRREPARABLE Wed, Sep 09, 10:00 AM EDT High Pre-Bid: $13,500.00 Prebid available"
+  },
+  {
+    "search_term": "ioniq",
+    "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/3076338",
+    "image_page": "",
+    "title": "2025 HYUNDAI IONIQ 6 SEL",
+    "vin": "KMHM34AC4SA******",
+    "stock_number": "12673039",
+    "sale_datetime": "Wed, Sep 09, 01:00 PM EDT",
+    "closing_date": "",
+    "city": "Vancouver",
+    "lane": "1",
+    "run": "51",
+    "location": "IAA Vancouver BC-SALVAGE",
+    "location_name": "IAA Vancouver BC",
+    "branding": "SALVAGE",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "Electric Vancouver",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Stationary",
+    "odometer_km": "7397",
+    "damage_estimate": "37,909.00",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2025 HYUNDAI IONIQ 6 SEL VIN #: KMHM34AC4SA****** Stock #: 12673039 Front, Rear Damage Estimate: $37,909.00 7397 Km Transmission: Auto Stationary Engine: Electric Vancouver Lane: 1 Run: 51 Location: IAA Vancouver BC-SALVAGE Wed, Sep 09, 01:00 PM EDT Prebid available"
   },
   {
     "search_term": "ioniq",
@@ -532,6 +588,34 @@
     "raw_text": "2020 HYUNDAI IONIQ VIN #: KMHC75LC6LU****** Stock #: 40086163 Left Front, Possible Mech. 299764 Km Transmission: Auto Stationary Engine: 1.6L I4 FI DOHC 16V NF4 Lower Mainland Lane: 1 Run: 67 Location: Lower Mainland SALVAGE Wed, Sep 09, 01:00 PM EDT Prebid available"
   },
   {
+    "search_term": "ioniq",
+    "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/3085427",
+    "image_page": "",
+    "title": "2017 HYUNDAI IONIQ HYBRID SE",
+    "vin": "KMHC75LC8HU******",
+    "stock_number": "12681361",
+    "sale_datetime": "Tue, Sep 15, 08:30 AM EDT",
+    "closing_date": "",
+    "city": "Moncton",
+    "lane": "2",
+    "run": "42",
+    "location": "IAA Moncton NB-SALVAGE",
+    "location_name": "IAA Moncton NB",
+    "branding": "SALVAGE",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "1.6L I-4 DI, DOHC, VVT, 104HP Moncton",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Run and Drive",
+    "odometer_km": "128217",
+    "damage_estimate": "7,097.17",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2017 HYUNDAI IONIQ HYBRID SE VIN #: KMHC75LC8HU****** Stock #: 12681361 Left Front Damage Estimate: $7,097.17 128217 Km Transmission: Auto RunAndDrive Engine: 1.6L I-4 DI, DOHC, VVT, 104HP Moncton Lane: 2 Run: 42 Location: IAA Moncton NB-SALVAGE Tue, Sep 15, 08:30 AM EDT Prebid available"
+  },
+  {
     "search_term": "bmw i4",
     "result_page": 1,
     "detail_page": "https://ca.iaai.com/vehicle-details/3079999",
@@ -547,7 +631,7 @@
     "location": "IAA Toronto ON-SALVAGE",
     "location_name": "IAA Toronto ON",
     "branding": "SALVAGE",
-    "high_pre_bid": "13,600.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "U UX Toronto (Oshawa)",
     "fuel_type": "",
@@ -557,7 +641,7 @@
     "damage_estimate": "71,388.19",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2024 BMW I4 VIN #: WBY33AW05RF****** Stock #: 12676276 Front Damage Estimate: $71,388.19 11000 Km Transmission: Auto Stationary Engine: U UX Toronto (Oshawa) Lane: 3 Run: 21 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $13,600.00 Prebid available"
+    "raw_text": "2024 BMW I4 VIN #: WBY33AW05RF****** Stock #: 12676276 Front Damage Estimate: $71,388.19 11000 Km Transmission: Auto Stationary Engine: U UX Toronto (Oshawa) Lane: 3 Run: 21 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT Status: SOLD"
   },
   {
     "search_term": "e-tron",
@@ -603,7 +687,7 @@
     "location": "IAA Montreal Laval QC-V.G.A",
     "location_name": "IAA Montreal Laval QC",
     "branding": "V.G.A",
-    "high_pre_bid": "15,700.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric Montreal East",
     "fuel_type": "",
@@ -613,7 +697,7 @@
     "damage_estimate": "52,474.10",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2024 AUDI Q8 E-TRON VIN #: WA1BABGE5RB****** Stock #: 12603837 Left Front, Left Side Damage Estimate: $52,474.10 19878 Km Transmission: Auto Starts Engine: Electric Montreal East Lane: 1 Run: 19 Location: IAA Montreal Laval QC-V.G.A Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $15,700.00 Prebid available"
+    "raw_text": "2024 AUDI Q8 E-TRON VIN #: WA1BABGE5RB****** Stock #: 12603837 Left Front, Left Side Damage Estimate: $52,474.10 19878 Km Transmission: Auto Starts Engine: Electric Montreal East Lane: 1 Run: 19 Location: IAA Montreal Laval QC-V.G.A Tue, Sep 08, 09:00 AM EDT Status: IFBID"
   },
   {
     "search_term": "e-tron",
@@ -646,6 +730,34 @@
   {
     "search_term": "e-tron",
     "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/30101731",
+    "image_page": "",
+    "title": "2023 AUDI Q4 E-TRON PREMIUM",
+    "vin": "WA1L2AFZ1PP******",
+    "stock_number": "40078982",
+    "sale_datetime": "Fri, Sep 11, 01:00 PM EDT",
+    "closing_date": "",
+    "city": "Lower Mainland",
+    "lane": "2",
+    "run": "7",
+    "location": "Lower Mainland SALVAGE",
+    "location_name": "Lower Mainland",
+    "branding": "SALVAGE",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "Electric Lower Mainland",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Stationary",
+    "odometer_km": "",
+    "damage_estimate": "",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2023 AUDI Q4 E-TRON PREMIUM VIN #: WA1L2AFZ1PP****** Stock #: 40078982 Engine Fire, Front Window Unknown Transmission: Auto Stationary Engine: Electric Lower Mainland Lane: 2 Run: 7 Location: Lower Mainland SALVAGE Fri, Sep 11, 01:00 PM EDT Prebid available"
+  },
+  {
+    "search_term": "e-tron",
+    "result_page": 1,
     "detail_page": "https://ca.iaai.com/vehicle-details/3090284",
     "image_page": "",
     "title": "2012 AUDI A3 SPORTBACK E-TRON",
@@ -672,6 +784,34 @@
     "raw_text": "2012 AUDI A3 SPORTBACK E-TRON VIN #: WAUMFCFMXCA****** Stock #: 12685873 Charity, Charity 165686 Km Transmission: Auto RunAndDrive Hamilton Lane: 2 Run: 176 Location: IAA Hamilton South ON-NOT BRANDED Thu, Sep 10, 09:00 AM EDT Prebid available"
   },
   {
+    "search_term": "Ariya",
+    "result_page": 1,
+    "detail_page": "https://ca.iaai.com/vehicle-details/3085908",
+    "image_page": "",
+    "title": "2025 NISSAN ARIYA EVOLVE",
+    "vin": "JN8CF0BF2SM******",
+    "stock_number": "12681766",
+    "sale_datetime": "Tue, Sep 15, 08:30 AM EDT",
+    "closing_date": "",
+    "city": "Moncton",
+    "lane": "2",
+    "run": "48",
+    "location": "IAA Moncton PE-SALVAGE",
+    "location_name": "IAA Moncton PE",
+    "branding": "SALVAGE",
+    "high_pre_bid": "",
+    "buy_now": "",
+    "engine": "Electric Moncton",
+    "fuel_type": "",
+    "cylinders": "",
+    "functional_status": "Starts",
+    "odometer_km": "49397",
+    "damage_estimate": "30,660.00",
+    "parse_issue": false,
+    "parse_issue_reason": "",
+    "raw_text": "2025 NISSAN ARIYA EVOLVE VIN #: JN8CF0BF2SM****** Stock #: 12681766 Front, Left Front Damage Estimate: $30,660.00 49397 Km Transmission: Auto Starts Engine: Electric Moncton Lane: 2 Run: 48 Location: IAA Moncton PE-SALVAGE Tue, Sep 15, 08:30 AM EDT Prebid available"
+  },
+  {
     "search_term": "lyriq",
     "result_page": 1,
     "detail_page": "https://ca.iaai.com/vehicle-details/3026104",
@@ -687,7 +827,7 @@
     "location": "IAA London ON-NOT BRANDED",
     "location_name": "IAA London ON",
     "branding": "NOT BRANDED",
-    "high_pre_bid": "7,300.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric London",
     "fuel_type": "",
@@ -697,7 +837,7 @@
     "damage_estimate": "34,745.76",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2024 CADILLAC LYRIQ TECH VIN #: 1GYKPMRL7RZ****** Stock #: 12626336 Front Damage Estimate: $34,745.76 35828 Km Transmission: Auto Starts Engine: Electric London Lane: 1 Run: 85 Location: IAA London ON-NOT BRANDED Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $7,300.00 Prebid available"
+    "raw_text": "2024 CADILLAC LYRIQ TECH VIN #: 1GYKPMRL7RZ****** Stock #: 12626336 Front Damage Estimate: $34,745.76 35828 Km Transmission: Auto Starts Engine: Electric London Lane: 1 Run: 85 Location: IAA London ON-NOT BRANDED Tue, Sep 08, 09:00 AM EDT Status: IFBID"
   },
   {
     "search_term": "optiq",
@@ -715,7 +855,7 @@
     "location": "IAA Toronto ON-SALVAGE",
     "location_name": "IAA Toronto ON",
     "branding": "SALVAGE",
-    "high_pre_bid": "10,200.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "Electric Toronto (Oshawa)",
     "fuel_type": "",
@@ -725,7 +865,7 @@
     "damage_estimate": "33,881.44",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2026 CADILLAC OPTIQ LUXURY VIN #: 3GYK3DM42TS****** Stock #: 12643129 Rear Damage Estimate: $33,881.44 1409 Km Transmission: Auto RunAndDrive Engine: Electric Toronto (Oshawa) Lane: 3 Run: 85 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $10,200.00 Prebid available"
+    "raw_text": "2026 CADILLAC OPTIQ LUXURY VIN #: 3GYK3DM42TS****** Stock #: 12643129 Rear Damage Estimate: $33,881.44 1409 Km Transmission: Auto RunAndDrive Engine: Electric Toronto (Oshawa) Lane: 3 Run: 85 Location: IAA Toronto ON-SALVAGE Tue, Sep 08, 09:00 AM EDT Status: IFBID"
   },
   {
     "search_term": "gv70",
@@ -771,7 +911,7 @@
     "location": "Fraser Valley SALVAGE",
     "location_name": "Fraser Valley",
     "branding": "SALVAGE",
-    "high_pre_bid": "6,200.00",
+    "high_pre_bid": "7,900.00",
     "buy_now": "",
     "engine": "Electric Fraser Valley",
     "fuel_type": "",
@@ -781,7 +921,7 @@
     "damage_estimate": "",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2024 GENESIS GV70 PRESTIGE VIN #: KMUMAET10RU****** Stock #: 40080306 Front, Left Front 14920 Km Transmission: Auto Stationary Engine: Electric Fraser Valley Lane: 3 Run: 77 Location: Fraser Valley SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $6,200.00 Prebid available"
+    "raw_text": "2024 GENESIS GV70 PRESTIGE VIN #: KMUMAET10RU****** Stock #: 40080306 Front, Left Front 14920 Km Transmission: Auto Stationary Engine: Electric Fraser Valley Lane: 3 Run: 77 Location: Fraser Valley SALVAGE Wed, Sep 09, 01:00 PM EDT High Pre-Bid: $7,900.00 Prebid available"
   },
   {
     "search_term": "gv70",
@@ -799,7 +939,7 @@
     "location": "IAA Hamilton South ON-NOT BRANDED",
     "location_name": "IAA Hamilton South ON",
     "branding": "NOT BRANDED",
-    "high_pre_bid": "3,000.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "2.5L I-4 DI, DOHC, VVT, turbo, premium , 300HP Hamilton",
     "fuel_type": "",
@@ -809,7 +949,7 @@
     "damage_estimate": "43,099.00",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2023 GENESIS GV70 2.5T PRESTIGE AWD VIN #: KMUMADTB7PU****** Stock #: 12687062 Front, Left Side Damage Estimate: $43,099.00 76078 Km Transmission: Auto Starts Engine: 2.5L I-4 DI, DOHC, VVT, turbo, premium , 300HP Hamilton Lane: 2 Run: 157 Location: IAA Hamilton South ON-NOT BRANDED Tue, Sep 08, 09:00 AM EDT High Pre-Bid: $3,000.00 Prebid available"
+    "raw_text": "2023 GENESIS GV70 2.5T PRESTIGE AWD VIN #: KMUMADTB7PU****** Stock #: 12687062 Front, Left Side Damage Estimate: $43,099.00 76078 Km Transmission: Auto Starts Engine: 2.5L I-4 DI, DOHC, VVT, turbo, premium , 300HP Hamilton Lane: 2 Run: 157 Location: IAA Hamilton South ON-NOT BRANDED Tue, Sep 08, 09:00 AM EDT Status: SOLD"
   },
   {
     "search_term": "taycan",
@@ -855,7 +995,7 @@
     "location": "IAA Toronto West ON-NOT BRANDED",
     "location_name": "IAA Toronto West ON",
     "branding": "NOT BRANDED",
-    "high_pre_bid": "",
+    "high_pre_bid": "15,100.00",
     "buy_now": "",
     "engine": "Electric Toronto West",
     "fuel_type": "",
@@ -865,7 +1005,7 @@
     "damage_estimate": "72,198.10",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2020 PORSCHE TAYCAN 4S VIN #: WP0AB2Y11LS****** Stock #: 12608359 Front, Right Side Damage Estimate: $72,198.10 79645 Km Transmission: Auto Starts Engine: Electric Toronto West Lane: 4 Run: 18 Location: IAA Toronto West ON-NOT BRANDED Thu, Sep 10, 09:00 AM EDT Prebid available"
+    "raw_text": "2020 PORSCHE TAYCAN 4S VIN #: WP0AB2Y11LS****** Stock #: 12608359 Front, Right Side Damage Estimate: $72,198.10 79645 Km Transmission: Auto Starts Engine: Electric Toronto West Lane: 4 Run: 18 Location: IAA Toronto West ON-NOT BRANDED Thu, Sep 10, 09:00 AM EDT High Pre-Bid: $15,100.00 Prebid available"
   },
   {
     "search_term": "solterra",
@@ -883,7 +1023,7 @@
     "location": "IAA Toronto ON-NOT BRANDED",
     "location_name": "IAA Toronto ON",
     "branding": "NOT BRANDED",
-    "high_pre_bid": "1,050.00",
+    "high_pre_bid": "3,200.00",
     "buy_now": "",
     "engine": "Electric Toronto (Oshawa)",
     "fuel_type": "",
@@ -893,7 +1033,7 @@
     "damage_estimate": "46,225.61",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2023 SUBARU SOLTERRA LUXURY PACKAGE/TECHNOLOGY PACKAGE VIN #: JTMABABA5PA****** Stock #: 12593027 Front, Left Front Damage Estimate: $46,225.61 62000 Km Transmission: Auto Stationary Engine: Electric Toronto (Oshawa) Lane: 3 Run: 104 Location: IAA Toronto ON-NOT BRANDED Wed, Sep 09, 09:00 AM EDT High Pre-Bid: $1,050.00 Prebid available"
+    "raw_text": "2023 SUBARU SOLTERRA LUXURY PACKAGE/TECHNOLOGY PACKAGE VIN #: JTMABABA5PA****** Stock #: 12593027 Front, Left Front Damage Estimate: $46,225.61 62000 Km Transmission: Auto Stationary Engine: Electric Toronto (Oshawa) Lane: 3 Run: 104 Location: IAA Toronto ON-NOT BRANDED Wed, Sep 09, 09:00 AM EDT High Pre-Bid: $3,200.00 Prebid available"
   },
   {
     "search_term": "i-pace",
@@ -911,7 +1051,7 @@
     "location": "Regina Salvage SK-MECHANICAL INSPECTION REQUIRED",
     "location_name": "Regina Salvage SK",
     "branding": "MECHANICAL INSPECTION REQUIRED",
-    "high_pre_bid": "5,100.00",
+    "high_pre_bid": "",
     "buy_now": "",
     "engine": "3.0L V6 FI DOHC 24V YF4 Regina",
     "fuel_type": "",
@@ -921,7 +1061,7 @@
     "damage_estimate": "18,275.21",
     "parse_issue": false,
     "parse_issue_reason": "",
-    "raw_text": "2017 JAGUAR F-PACE R - SPORT VIN #: SADCL2BV6HA****** Stock #: 30098747 Hail, All Over Damage Estimate: $18,275.21 88780 Km Transmission: Auto RunAndDrive Engine: 3.0L V6 FI DOHC 24V YF4 Regina Lane: 1 Run: 93 Location: Regina Salvage SK-MECHANICAL INSPECTION REQUIRED Tue, Sep 08, 11:00 AM EDT High Pre-Bid: $5,100.00 Prebid available"
+    "raw_text": "2017 JAGUAR F-PACE R - SPORT VIN #: SADCL2BV6HA****** Stock #: 30098747 Hail, All Over Damage Estimate: $18,275.21 88780 Km Transmission: Auto RunAndDrive Engine: 3.0L V6 FI DOHC 24V YF4 Regina Lane: 1 Run: 93 Location: Regina Salvage SK-MECHANICAL INSPECTION REQUIRED Tue, Sep 08, 11:00 AM EDT Status: SOLD"
   },
   {
     "search_term": "i-pace",
